@@ -17,7 +17,7 @@ The goal is to demonstrate **SQL skills in data modeling, querying, and generati
 - Product Performance
 
 
-**1. Total Sales Revenue -**
+**1. <ins>Total Sales Revenue -</ins>**
 
 
 
@@ -27,8 +27,9 @@ select sum(total_amount) as Total_Revenue from sales;
 ```
 <img width="130" height="60" alt="Image" src="https://github.com/user-attachments/assets/31a15490-d0c4-4626-aa90-315e63db32e8" />
 
+&ensp;
 
-**2. Average Order Value -**
+**2. <ins>Average Order Value -</ins>**
 
 **SQL Code**
 ```sql
@@ -38,10 +39,10 @@ from sales;
 
 <img width="129" height="60" alt="Image" src="https://github.com/user-attachments/assets/113a5b4c-fa5c-43f1-9a3f-84e4d262ac60" />
 
+&ensp;
 
 
-
-**3. Top 5 Best-Selling Products -** 
+**3. <ins>Top 5 Best-Selling Products -</ins>** 
 
 **SQL Code**
 ```sql
@@ -57,8 +58,9 @@ from sales;
 
 <img width="120" height="59" alt="Image" src="https://github.com/user-attachments/assets/0a8bc6d7-7cee-4c9c-9e87-b252523da18a" />
 
+&ensp;
 
-**4.  Revenue by Category -**
+**4. <ins>Revenue by Category -</ins>**
 
 **SQL Code**
 ```sql
@@ -72,8 +74,9 @@ ORDER BY category_revenue DESC;
 
 <img width="198" height="110" alt="Image" src="https://github.com/user-attachments/assets/116e4fd2-f745-4d75-a572-4a3d9c3619c1" />
 
+&ensp;
 
-**5.  Revenue by Region -**
+**5. <ins>Revenue by Region -</ins>**
 
 **SQL Code**
 ```sql
@@ -88,8 +91,9 @@ ORDER BY region_revenue DESC;
 
 <img width="168" height="111" alt="Image" src="https://github.com/user-attachments/assets/6d0b2dc0-3af8-4337-838f-6ae83dc6a424" />
 
+&ensp;
 
-**6. Top 10 Customers by Spending -**
+**6. <ins>Top 10 Customers by Spending -</ins>**
 
 **SQL Code**
 ```sql
@@ -105,8 +109,9 @@ LIMIT 10;
 
 <img width="188" height="217" alt="Image" src="https://github.com/user-attachments/assets/66b47e4d-535d-4514-a039-937e3a3cd7e4" />
 
+&ensp;
 
-**7. Most Frequent Customers (by order count) -**
+**7. <ins>Most Frequent Customers (by order count) -</ins>**
 
 **SQL Code**
 ```sql
@@ -122,7 +127,9 @@ LIMIT 10;
 
 <img width="201" height="223" alt="Image" src="https://github.com/user-attachments/assets/a7a4230f-176b-4927-82bb-56c6a3f2197d" />
 
-**8. Daily Sales Summary -**
+&ensp;
+
+**8. <ins>Daily Sales Summary -</ins>**
 
 **SQL Code**
 ```sql
@@ -410,8 +417,9 @@ ORDER BY date;
 | 30-12-2024 | 1066          | 1            |
 | 31-12-2024 | 10677         | 1            |
 
+&ensp;
 
-**9. Product Performance (revenue + units sold) -**
+**9. <ins>Product Performance (revenue + units sold) -</ins>**
 
 **SQL Code**
 ```sql
