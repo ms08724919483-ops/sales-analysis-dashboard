@@ -123,7 +123,7 @@ LIMIT 10;
 **8. Daily Sales Summary -**
 
 
-
+https://github.com/ms08724919483-ops/sales-analysis-dashboard/blob/main/Daily_Revenue.csv
 
 
 
