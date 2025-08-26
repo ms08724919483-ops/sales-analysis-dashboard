@@ -1,13 +1,13 @@
 # Sales Analysis Dashboard
-SQL Project to analyze sales data and generate insights
+SQL Project to analyze sales data and generate insights.
 
 
-**Overview -**
+**<ins>Overview -</ins>**
 
 This project is a **SQL-based Sales Analysis Dashboard** built using a realistic dataset of **Customers, Products, and Sales transactions**.  
 The goal is to demonstrate **SQL skills in data modeling, querying, and generating business insights**.
 
- **Analysis Performed -**
+ **<ins>Analysis Performed -</ins>**
 - Total Revenue and Average Order Value  
 - Top 5 Best-Selling Products  
 - Revenue by Category and Region  
@@ -16,6 +16,7 @@ The goal is to demonstrate **SQL skills in data modeling, querying, and generati
 - Daily Sale Summary
 - Product Performance
 
+&ensp;
 
 **1. <ins>Total Sales Revenue -</ins>**
 
