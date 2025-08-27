@@ -57,7 +57,9 @@ from sales;
 
 ```
 
-<img width="120" height="59" alt="Image" src="https://github.com/user-attachments/assets/0a8bc6d7-7cee-4c9c-9e87-b252523da18a" />
+<img width="169" height="127" alt="image" src="https://github.com/user-attachments/assets/fc42645a-a157-4407-b1f1-c65035e1f14d" />
+
+
 
 &ensp;
 
