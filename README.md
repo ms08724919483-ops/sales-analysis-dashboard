@@ -27,6 +27,11 @@ The database has **3 core tables**:
 - Daily Sale Summary
 - Product Performance
 
+##  🚀 Tech Stack
+
+- SQL (MySQL)
+- CSV (Sample Data)
+
 &ensp;
 
 **1. <ins>Total Sales Revenue -</ins>**
@@ -473,3 +478,8 @@ ORDER BY total_revenue DESC;
 | Smartphone    | Electronics | 38               | 45638         |
 | T-Shirt       | Clothing    | 28               | 43428         |
 
+## 🙌 Author
+
+👤 Manish Sharma
+📧 ms08724919483@gmail.com
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/manish-sharma-552b892b7/overlay/about-this-profile/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B2j7lVD9lSbm1PhDtDzDDKQ%3D%3D)
