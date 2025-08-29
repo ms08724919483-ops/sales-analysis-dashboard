@@ -2,12 +2,23 @@
 SQL Project to analyze sales data and generate insights.
 
 
-**<ins>Overview -</ins>**
+## 📊 Project Overview
 
 This project is a **SQL-based Sales Analysis Dashboard** built using a realistic dataset of **Customers, Products, and Sales transactions**.  
 The goal is to demonstrate **SQL skills in data modeling, querying, and generating business insights**.
 
- **<ins>Analysis Performed -</ins>**
+&ensp;
+
+## 🗄️ Database Schema
+The database has **3 core tables**:
+
+- **customers** → customers info  
+- **products** → product catalog with category & price  
+- **sales** → sales transactions 
+
+&ensp;
+
+## 🔍 Example Analysis Queries
 - Total Revenue and Average Order Value  
 - Top 5 Best-Selling Products  
 - Revenue by Category and Region  
