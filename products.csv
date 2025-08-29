@@ -1,0 +1,21 @@
+product_id,name,category,price
+1,Smartphone,Electronics,1201
+2,Laptop,Electronics,4481
+3,Headphones,Electronics,1066
+4,Smartwatch,Electronics,4863
+5,Tablet,Electronics,1530
+6,T-Shirt,Clothing,1551
+7,Jeans,Clothing,4393
+8,Jacket,Clothing,1852
+9,Dress,Clothing,2671
+10,Shoes,Clothing,4822
+11,Sofa,Home,3966
+12,Dining Table,Home,2235
+13,Chair,Home,4917
+14,Lamp,Home,2147
+15,Bed,Home,3053
+16,Football,Sports,3768
+17,Cricket Bat,Sports,3559
+18,Tennis Racket,Sports,4088
+19,Basketball,Sports,4739
+20,Gym Gloves,Sports,4198
