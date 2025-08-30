@@ -5,8 +5,8 @@ SQL Project to analyze sales data and generate insights.
 ## 📊 Project Overview
 
 This project is a **SQL-based Sales Analysis Dashboard** built using a realistic dataset of **Customers, Products, and Sales transactions**.  
-The goal is to demonstrate **SQL skills in data modeling, querying, and generating business insights**.
-
+A complete end-to-end ***Sales Analysis Project using SQL (MySQL) + Power BI***.
+This project demonstrates database design, SQL queries for business insights, and interactive dashboard visualization.
 &ensp;
 
 ## 🗄️ Database Schema
