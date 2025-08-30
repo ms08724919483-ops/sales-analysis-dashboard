@@ -31,6 +31,7 @@ The database has **3 core tables**:
 
 - SQL (MySQL)
 - CSV (Sample Data)
+- Power BI (Report Visualization)
 
 &ensp;
 
@@ -477,6 +478,11 @@ ORDER BY total_revenue DESC;
 | Headphones    | Electronics | 62               | 66092         |
 | Smartphone    | Electronics | 38               | 45638         |
 | T-Shirt       | Clothing    | 28               | 43428         |
+
+&ensp;
+
+## <ins>Power BI Dashboard -</ins>
+<img width="994" height="570" alt="image" src="https://github.com/user-attachments/assets/941dcc76-d0c8-4062-8dba-2f143d46c239" />
 
 ## 🙌 Author
 
