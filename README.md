@@ -29,9 +29,9 @@ The database has **3 core tables**:
 
 ##  🚀 Tech Stack
 
-- SQL (MySQL)
-- CSV (Sample Data)
-- Power BI (Report Visualization)
+- SQL (MySQL) for data modeling & querying
+- CSV (mock data) for realistic inputs
+- Power BI for visualization
 
 &ensp;
 
@@ -484,7 +484,7 @@ ORDER BY total_revenue DESC;
 ## <ins>Power BI Dashboard -</ins>
 <img width="994" height="570" alt="image" src="https://github.com/user-attachments/assets/941dcc76-d0c8-4062-8dba-2f143d46c239" />
 
-## 🙌 Author
+## 🙌 About Me
 
 👤 Manish Sharma
 📧 ms08724919483@gmail.com
