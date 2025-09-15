@@ -35,6 +35,16 @@ The database has **3 core tables**:
 
 &ensp;
 
+## Power BI Dashboard
+
+[Sales_Analysis_Dashboard](https://github.com/user-attachments/files/22328437/Sales_Analysis_Dashboard.pdf)
+
+<img width="872" height="501" alt="image" src="https://github.com/user-attachments/assets/0f5521ef-0ce1-42df-a53f-a3bc73f27696" />
+
+
+
+&ensp;
+
 **1. <ins>Total Sales Revenue -</ins>**
 
 
@@ -480,9 +490,6 @@ ORDER BY total_revenue DESC;
 | T-Shirt       | Clothing    | 28               | 43428         |
 
 &ensp;
-
-## <ins>Power BI Dashboard -</ins>
-<img width="994" height="570" alt="image" src="https://github.com/user-attachments/assets/941dcc76-d0c8-4062-8dba-2f143d46c239" />
 
 ## 🙌 About Me
 
