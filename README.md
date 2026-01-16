@@ -1,4 +1,4 @@
-# Sales Analysis Dashboard
+# Sales Performance Dashboard
 SQL Project to analyze sales data and generate insights.
 
 
