@@ -1,10 +1,10 @@
-# Sales Performance Dashboard
+# Sales Trends and Insights
 SQL Project to analyze sales data and generate insights.
 
 
 ## 📊 Project Overview
 
-This project is a **SQL-based Sales Analysis Dashboard** built using a realistic dataset of **Customers, Products, and Sales transactions**.  
+This project is a **SQL-based Sales Trends and Insights** built using a realistic dataset of **Customers, Products, and Sales transactions**.  
 A complete end-to-end ***Sales Analysis Project using SQL (MySQL) + Power BI***.
 This project demonstrates database design, SQL queries for business insights, and interactive dashboard visualization.
 &ensp;
@@ -37,7 +37,7 @@ The database has **3 core tables**:
 
 ## Power BI Dashboard
 
-[Sales_Analysis_Dashboard](https://github.com/user-attachments/files/22328437/Sales_Analysis_Dashboard.pdf)
+[Sales Trends and Insights](https://github.com/user-attachments/files/22328437/Sales_Analysis_Dashboard.pdf)
 
 <img width="872" height="501" alt="image" src="https://github.com/user-attachments/assets/0f5521ef-0ce1-42df-a53f-a3bc73f27696" />
 
